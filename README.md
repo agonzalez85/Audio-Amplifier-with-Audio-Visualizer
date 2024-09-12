@@ -21,10 +21,10 @@ This project is an Audio amplifier with an integrated 7-band Audio Visualizer us
 
 
 ## Schematic
-The schematic for the audio amplifier with an integrated 7-band visualizer can be found here (./docs/Audio_Amplifier_Schematic.pdf).
+The schematic for the audio amplifier with an integrated 7-band visualizer can be found here (./docs/Audio_Amplifier_Schematic.pdf)
 
 ## 3D Model
-The 3D model is available in STEP and WRL format here (./docs/Audio Amplifier.step).
+The 3D model is available in STEP and WRL format here (./docs/Audio_Amplifier_3D.step)
 To view:
 1. Download the files
 2. Open it using 3D CAD software
@@ -33,4 +33,4 @@ A screenshot of the 3D model is available here (./docs/Audio_Amplifier_3D_Model.
 
 ## Project Structure
 - `Audio_Visualizer_Amplifier.ino`: Main Arduino code
-- `docs/`: Contains schematic, 3D model, and other documentation
+- `docs/`: Contains schematic, and 3D model
